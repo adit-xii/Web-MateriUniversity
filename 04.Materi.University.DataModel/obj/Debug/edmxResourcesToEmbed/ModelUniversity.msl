@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_UniversityModelStoreContainer" CdmEntityContainer="DB_UniversityEntities">
+    <EntitySetMapping Name="tbl_m_agama">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_m_agama">
+        <MappingFragment StoreEntitySet="tbl_m_agama">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="deskripsi" ColumnName="deskripsi" />
+          <ScalarProperty Name="kode_agama" ColumnName="kode_agama" />
+          <ScalarProperty Name="id_agama_pk" ColumnName="id_agama_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_m_dosen">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_m_dosen">
+        <MappingFragment StoreEntitySet="tbl_m_dosen">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="id_type_dosen_fk" ColumnName="id_type_dosen_fk" />
+          <ScalarProperty Name="id_jurusan_fk" ColumnName="id_jurusan_fk" />
+          <ScalarProperty Name="nama_dosen" ColumnName="nama_dosen" />
+          <ScalarProperty Name="kode_dosen" ColumnName="kode_dosen" />
+          <ScalarProperty Name="id_dosen_pk" ColumnName="id_dosen_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_m_jurusan">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_m_jurusan">
+        <MappingFragment StoreEntitySet="tbl_m_jurusan">
+          <ScalarProperty Name="Akreditasi" ColumnName="Akreditasi" />
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="nama_jurusan" ColumnName="nama_jurusan" />
+          <ScalarProperty Name="kode_jurusan" ColumnName="kode_jurusan" />
+          <ScalarProperty Name="id_jurusan_pk" ColumnName="id_jurusan_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_m_mahasiswa">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_m_mahasiswa">
+        <MappingFragment StoreEntitySet="tbl_m_mahasiswa">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="id_jurusan_fk" ColumnName="id_jurusan_fk" />
+          <ScalarProperty Name="id_agama_fk" ColumnName="id_agama_fk" />
+          <ScalarProperty Name="alamat" ColumnName="alamat" />
+          <ScalarProperty Name="nama_mahasiswa" ColumnName="nama_mahasiswa" />
+          <ScalarProperty Name="kode_mahasiswa" ColumnName="kode_mahasiswa" />
+          <ScalarProperty Name="id_mahasiswa_pk" ColumnName="id_mahasiswa_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_m_type_dosen">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_m_type_dosen">
+        <MappingFragment StoreEntitySet="tbl_m_type_dosen">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="deskripsi" ColumnName="deskripsi" />
+          <ScalarProperty Name="kode_type_dosen" ColumnName="kode_type_dosen" />
+          <ScalarProperty Name="id_type_dosen_pk" ColumnName="id_type_dosen_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_r_ujian">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_r_ujian">
+        <MappingFragment StoreEntitySet="tbl_r_ujian">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="nama_ujian" ColumnName="nama_ujian" />
+          <ScalarProperty Name="kode_ujian" ColumnName="kode_ujian" />
+          <ScalarProperty Name="id_ujian_pk" ColumnName="id_ujian_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_t_nilai">
+      <EntityTypeMapping TypeName="DB_UniversityModel.tbl_t_nilai">
+        <MappingFragment StoreEntitySet="tbl_t_nilai">
+          <ScalarProperty Name="updated_date" ColumnName="updated_date" />
+          <ScalarProperty Name="updated_by" ColumnName="updated_by" />
+          <ScalarProperty Name="created_date" ColumnName="created_date" />
+          <ScalarProperty Name="created_by" ColumnName="created_by" />
+          <ScalarProperty Name="is_active" ColumnName="is_active" />
+          <ScalarProperty Name="nilai" ColumnName="nilai" />
+          <ScalarProperty Name="id_ujian_fk" ColumnName="id_ujian_fk" />
+          <ScalarProperty Name="id_mahasiswa_fk" ColumnName="id_mahasiswa_fk" />
+          <ScalarProperty Name="id_nilai_pk" ColumnName="id_nilai_pk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_UniversityModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_m_agama">
+    <Key>
+      <PropertyRef Name="id_agama_pk" />
+    </Key>
+    <Property Name="id_agama_pk" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_agama" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="deskripsi" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_m_dosen">
+    <Key>
+      <PropertyRef Name="id_dosen_pk" />
+    </Key>
+    <Property Name="id_dosen_pk" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_dosen" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="nama_dosen" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_jurusan_fk" Type="int" Nullable="false" />
+    <Property Name="id_type_dosen_fk" Type="int" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_m_jurusan">
+    <Key>
+      <PropertyRef Name="id_jurusan_pk" />
+    </Key>
+    <Property Name="id_jurusan_pk" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_jurusan" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="nama_jurusan" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+    <Property Name="Akreditasi" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="tbl_m_mahasiswa">
+    <Key>
+      <PropertyRef Name="id_mahasiswa_pk" />
+    </Key>
+    <Property Name="id_mahasiswa_pk" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_mahasiswa" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="nama_mahasiswa" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="alamat" Type="varchar" MaxLength="200" Nullable="false" />
+    <Property Name="id_agama_fk" Type="int" Nullable="false" />
+    <Property Name="id_jurusan_fk" Type="int" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_m_type_dosen">
+    <Key>
+      <PropertyRef Name="id_type_dosen_pk" />
+    </Key>
+    <Property Name="id_type_dosen_pk" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_type_dosen" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="deskripsi" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_r_ujian">
+    <Key>
+      <PropertyRef Name="id_ujian_pk" />
+    </Key>
+    <Property Name="id_ujian_pk" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kode_ujian" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="nama_ujian" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tbl_t_nilai">
+    <Key>
+      <PropertyRef Name="id_nilai_pk" />
+    </Key>
+    <Property Name="id_nilai_pk" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_mahasiswa_fk" Type="bigint" Nullable="false" />
+    <Property Name="id_ujian_fk" Type="int" Nullable="false" />
+    <Property Name="nilai" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="is_active" Type="bit" />
+    <Property Name="created_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="created_date" Type="datetime" Nullable="false" />
+    <Property Name="updated_by" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="updated_date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="DB_UniversityModelStoreContainer">
+    <EntitySet Name="tbl_m_agama" EntityType="Self.tbl_m_agama" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_m_dosen" EntityType="Self.tbl_m_dosen" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_m_jurusan" EntityType="Self.tbl_m_jurusan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_m_mahasiswa" EntityType="Self.tbl_m_mahasiswa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_m_type_dosen" EntityType="Self.tbl_m_type_dosen" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_r_ujian" EntityType="Self.tbl_r_ujian" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_t_nilai" EntityType="Self.tbl_t_nilai" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

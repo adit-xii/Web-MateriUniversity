@@ -1,0 +1,155 @@
+﻿@using _03.Materi.University.ViewModel;
+@model _03.Materi.University.ViewModel.DosenViewModel
+@{
+    List<TypeDosenViewModel> _typeDosenList = (List<TypeDosenViewModel>)ViewData["TypeDosenList"];
+}
+
+<div class="modal-body">
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.kode_dosen, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.kode_dosen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.kode_dosen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.nama_dosen, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.nama_dosen, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.nama_dosen, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.id_jurusan_fk, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.id_jurusan_fk, (IEnumerable<SelectListItem>)ViewBag.JurusanList, "--- Pilih ---", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.id_jurusan_fk, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.id_type_dosen_fk, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select name="id_type_dosen_fk" id="id_type_dosen_fk" class="form-control">
+                    <option class="-" value="">-- Pilih --</option>
+                    @{
+                        if (_typeDosenList.Count > 0)
+                        {
+                            foreach (TypeDosenViewModel item in _typeDosenList)
+                            {
+                                <option class="cursor-1" value="@item.id_type_dosen_pk.ToString().Trim()">
+                                    @item.deskripsi
+                                </option>
+                            }
+                        }
+                    }
+                </select>
+                @*@Html.ValidationMessageFor(model => model.id_type_dosen_fk, "", new { @class = "text-danger" })*@
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.is_active, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.CheckBoxFor(model => model.is_active)
+                @Html.ValidationMessageFor(model => model.is_active, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            Upload Foto
+            <div class="col-md-10">
+                <input type="file" id="FileUpload1" class="form-control" />
+                <input type="button" id="btnUpload" value="Upload Files" />
+
+                <button typeof="button" id="btn-add-file" class="btn btn-success" title="Upload File">
+                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Upload File
+                </button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="modal-footer">
+    <input type="button" value="Save" title="Save" class="btn btn-primary" id="btn_create_save" />
+    <input type="button" value="Cancel" title="Cancel" class="btn btn-default" id="btn_create_cancel" data-dismiss="modal" />
+</div>
+
+<script>
+    $("#btn_create_save").click(function () {
+        var item = {
+            id_dosen_pk: 0,
+            kode_dosen: $("#kode_dosen").val().toUpperCase(),
+            nama_dosen: $("#nama_dosen").val(),
+            id_jurusan_fk: $("#id_jurusan_fk").val(),
+            id_type_dosen_fk: $("#id_type_dosen_fk").val(),
+            is_active: $("#is_active").is(":checked")
+        };
+        //alert(JSON.stringify(item));
+
+        $.ajax({
+            url: '@Url.Action("Create", "Dosen")',
+            type: 'post',
+            data: { paramModel: item },
+            success: function (result) {
+                if (result.success) {
+                    $("#modal-edit-form").modal("hide");
+                    ShowList();
+                }
+                else {
+                    alert(result.message);
+                }
+            }
+        });
+    });
+
+    $("#btn-add-file").click(function () {
+        var item = {
+            id_dosen_pk: 0,
+            kode_dosen: $("#kode_dosen").val().toUpperCase(),
+            nama_dosen: $("#nama_dosen").val(),
+            id_jurusan_fk: $("#id_jurusan_fk").val(),
+            id_type_dosen_fk: $("#id_type_dosen_fk").val(),
+            is_active: $("#is_active").is(":checked")
+        };
+        debugger;
+
+        // Checking whether FormData is available in browser
+        if (window.FormData !== undefined) {
+            var fileUpload = $("#FileUpload1").get(0);
+            var files = fileUpload.files;
+            // Create FormData object
+            var fileData = new FormData();
+            // Looping over all files and add it to FormData object
+            for (var i = 0; i < files.length; i++) {
+                fileData.append(files[i].name, files[i]);
+            }
+
+            // Adding one more key to FormData object
+            //fileData.append('username', 'Manas');
+
+            $.ajax({
+                url: '/Dosen/UploadFiles',
+                type: "POST",
+                contentType: false, // Not to set any content header
+                processData: false, // Not to process data
+                data: fileData,
+                enctype: 'multipart/form-data',
+                success: function (result) {
+                    alert(result.message);
+                }
+            });
+        } else {
+            alert("FormData is not supported.");
+        }
+        });
+
+</script>

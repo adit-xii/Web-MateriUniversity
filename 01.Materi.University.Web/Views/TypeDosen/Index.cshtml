@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Master Data Jenis Karyawan</h4>
+
+<div class="panel-group">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+
+            <button typeof="button" id="btn-add-type-dosen" class="btn btn-success" title="Create New">
+                <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Tambah Data
+            </button>
+
+        </div>
+        <div class="panel-body">
+
+            <div id="table-list">
+                <div class="progress progress-striped active" style="margin-bottom:0">
+                    <div class="progress-bar" style="width:100%" />
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div id="modal-edit-form" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+            </div>
+
+            <div class="div-bind-content">
+                @*berisikan konten body dan footer*@
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        var progHtml = '<div class="progress progress-striped active" style="margin-bottom:0"><div class="progress-bar" style="width:100%"/></div>';
+
+        $(document).ready(function () {
+            ShowList();
+        });
+
+        function ShowList() {
+            $("#table-list").html(progHtml);
+
+            $.ajax({
+                url: '@Url.Action("List","TypeDosen")',
+                type: 'get',
+                success: function (result) {
+                    $("#table-list").html(result);
+                }
+            });
+        }
+
+        $("#btn-add-type-dosen").click(function () {
+            /* Configurations Modal */
+            $("#modal-edit-form").modal("show");
+            $(".modal-title").html("Edit Form Jenis Karyawan");
+            $(".div-bind-content").html(progHtml);
+
+            /* Show body modal */
+            $.ajax({
+                url: '@Url.Action("Create","TypeDosen")',
+                type: 'get',
+                success: function (result) {
+                    $(".div-bind-content").html(result);
+                }
+            })
+        });
+
+    </script>
+}

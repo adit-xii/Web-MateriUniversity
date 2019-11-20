@@ -1,0 +1,261 @@
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.rsp
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.rsp
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.AppContext.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Console.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Compression.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Claims.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.ValueTuple.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.rsp
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\EntityFramework.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\WebGrease.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\EntityFramework.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csprojAssemblyReference.cache
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csproj.CopyComplete
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.rsp
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.rsp
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.AppContext.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Console.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Compression.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Claims.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.ValueTuple.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.rsp
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\WebGrease.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.pdb
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll.config
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csprojAssemblyReference.cache
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csproj.CopyComplete
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.dll
+C:\MEGA\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\01.Materi.University.Web.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.exe.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csc.rsp
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.exe.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\csi.rsp
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.AppContext.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Console.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.exe.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\vbc.rsp
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\WebGrease.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\02.Materi.University.DataAccess.dll.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\03.Materi.University.ViewModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Helpers.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Mvc.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Optimization.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.Razor.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Newtonsoft.Json.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Antlr3.Runtime.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\bin\04.Materi.University.DataModel.dll.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csprojAssemblyReference.cache
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.csproj.CopyComplete
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\01.Materi.University.Web\obj\Debug\01.Materi.University.Web.pdb

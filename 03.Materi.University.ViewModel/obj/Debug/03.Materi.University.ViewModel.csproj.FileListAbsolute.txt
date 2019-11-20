@@ -1,0 +1,9 @@
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\03.Materi.University.ViewModel\bin\Debug\03.Materi.University.ViewModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\03.Materi.University.ViewModel\bin\Debug\03.Materi.University.ViewModel.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\03.Materi.University.ViewModel\obj\Debug\03.Materi.University.ViewModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\03.Materi.University.ViewModel\obj\Debug\03.Materi.University.ViewModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\03.Materi.University.ViewModel\bin\Debug\03.Materi.University.ViewModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\03.Materi.University.ViewModel\bin\Debug\03.Materi.University.ViewModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\03.Materi.University.ViewModel\obj\Debug\03.Materi.University.ViewModel.csprojAssemblyReference.cache
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\03.Materi.University.ViewModel\obj\Debug\03.Materi.University.ViewModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\03.Materi.University.ViewModel\obj\Debug\03.Materi.University.ViewModel.pdb

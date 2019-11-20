@@ -1,0 +1,101 @@
+﻿@model _03.Materi.University.ViewModel.DosenViewModel
+
+<div class="modal-body">
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.kode_dosen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.kode_dosen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nama_dosen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nama_dosen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_jurusan_fk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.program_studi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id_type_dosen_fk)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.status_karyawan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.is_active)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.is_active)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.created_by)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.created_by)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.created_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.created_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.updated_by)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.updated_by)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.updated_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.updated_date)
+        </dd>
+
+    </dl>
+</div>
+
+<div class="modal-footer">
+    <input type="button" value="Edit" title="Edit" class="btn btn-primary" id="btn_details_edit" data-id="@Html.DisplayFor(model => model.id_dosen_pk)" />
+    <input type="button" value="Cancel" title="Cancel" class="btn btn-default" id="btn_create_cancel" data-dismiss="modal" />
+</div>
+
+<script>
+    $("#btn_details_edit").click(function () {
+        $(".modal-title").html("Edit Form Agama");
+        $(".div-bind-content").html(progHtml);
+
+        $.ajax({
+            url: '@Url.Action("Edit", "Dosen")',
+            type: 'get',
+            data: { paramId: $(this).attr("data-id") },
+            success: function (result) {
+                $(".div-bind-content").html(result);
+            }
+        });
+
+    });
+</script>

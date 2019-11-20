@@ -1,0 +1,22 @@
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.dll.config
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.pdb
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.csprojAssemblyReference.cache
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.csproj.CopyComplete
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.dll
+C:\MEGA\02. Work\02. PT. XSIS MITRA UTAMA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.dll.config
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\04.Materi.University.DataModel.pdb
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.csprojAssemblyReference.cache
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.csproj.CopyComplete
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.dll
+C:\Users\adit_pc\Documents\01.Adit\02.Mega\03. My Activity\03. XA\Materi.University\04.Materi.University.DataModel\obj\Debug\04.Materi.University.DataModel.pdb
